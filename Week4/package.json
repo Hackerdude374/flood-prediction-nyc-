@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@radix-ui/react-alert-dialog": "^1.1.2",
+    "@radix-ui/react-slot": "^1.1.0",
+    "lucide-react": "^0.456.0",
+    "recharts": "^2.13.3"
+  }
+}
